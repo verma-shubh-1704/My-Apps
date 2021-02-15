@@ -11,3 +11,11 @@ This is the commands of the chat-app.
 - npm install node.js.
 - npm install socket.io.
 ```
+Brief details of project
+
+```
+const express = require('express')
+const http = require('http')
+const path = require('path')
+const socketio = require('socket.io')
+```
